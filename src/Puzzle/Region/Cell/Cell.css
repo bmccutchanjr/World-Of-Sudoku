@@ -1,0 +1,21 @@
+.Cell
+{   border-right: 1px solid var(--cell-border);
+    border-bottom: 1px solid var(--cell-border);
+    color: var(--cell-color);
+    display: block;
+    flex-grow: 1;
+    height: 10vh;
+    text-align: center;
+    width: 10vh;
+}
+
+.Cell .error
+{   color: var(--error-color);
+}
+
+.Cell .flex
+{   display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}

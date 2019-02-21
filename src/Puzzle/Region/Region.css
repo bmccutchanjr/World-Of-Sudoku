@@ -1,0 +1,13 @@
+.Region
+{   border: 1px solid var(--cell-border);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    height: 30vh;
+    width: 30vh;
+}
+
+.Region-gray
+{   background-color: lightgray;
+}

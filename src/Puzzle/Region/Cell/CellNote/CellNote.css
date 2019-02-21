@@ -1,0 +1,10 @@
+.CellNote
+{   color: var(--cell-color);
+    height: 3vh;
+    text-align: center;
+    width: 3vh;
+}
+
+.CellNote .error
+{   color: var(--error-color);
+}
