@@ -1,11 +1,11 @@
 .Region
 {   border: 1px solid var(--cell-border);
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     flex-grow: 1;
-    height: 30vh;
-    width: 30vh;
+    height: 33%;
+    width: 33%;
 }
 
 .Region-gray

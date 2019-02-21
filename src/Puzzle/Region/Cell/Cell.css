@@ -4,9 +4,9 @@
     color: var(--cell-color);
     display: block;
     flex-grow: 1;
-    height: 10vh;
+    height: 100%;
     text-align: center;
-    width: 10vh;
+    width: 33%;
 }
 
 .Cell .error
